@@ -1,3 +1,59 @@
+# ReactMobileApp
+
+## Description
+
+This project is a mobile calculator app with notes, created using React Native. It is my first attempt at mobile development.
+
+## Technologies
+
+- **React Native** - A library for building mobile applications using JavaScript and React.
+- **TypeScript** - A strongly typed programming language that builds on JavaScript.
+
+## Installation
+
+To install and run this application on your local machine, follow these steps:
+
+1. **Clone the repository**:
+
+    ```bash
+    git clone https://github.com/DanyaYen/ReactMobileApp.git
+    cd ReactMobileApp
+    ```
+
+2. **Install dependencies**:
+
+    Ensure you have Node.js and a package manager like npm or yarn installed. Then run:
+
+    ```bash
+    npm install
+    ```
+
+    or
+
+    ```bash
+    yarn install
+    ```
+
+3. **Run the application**:
+
+    To run the application on an emulator or a connected device, execute:
+
+    ```bash
+    npm run android
+    ```
+
+    or
+
+    ```bash
+    npm run ios
+    ```
+
+    The command for iOS requires you to have Xcode installed and a properly configured development environment for iOS.
+
+## Screenshots
+![1](https://github.com/DanyaYen/ReactMobileApp/blob/main/photo_1_2025-03-10_21-26-38.jpg)
+![2](https://github.com/DanyaYen/ReactMobileApp/blob/main/photo_2_2025-03-10_21-26-38.jpg)
+![3](https://github.com/DanyaYen/ReactMobileApp/blob/main/photo_3_2025-03-10_21-26-38.jpg)
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
